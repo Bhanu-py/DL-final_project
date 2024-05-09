@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 *.jpg
+*.jpeg
+*.JPEG
+*.png
+
+damage_detectiondata/
+raw/
+damage/
 
 # Distribution / packaging
 .Python
@@ -159,3 +166,4 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+transfer-learning/damage_detection/data/raw/damage/0001.JPEG
