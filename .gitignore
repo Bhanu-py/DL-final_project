@@ -14,6 +14,8 @@ damage_detectiondata/
 raw/
 damage/
 
+damage_detection_weights_densenet121.h5
+
 # Distribution / packaging
 .Python
 build/
