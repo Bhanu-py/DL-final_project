@@ -1,2 +1,4 @@
 /model/ filter=lfs diff=lfs merge=lfs -text
 /logs/ filter=lfs diff=lfs merge=lfs -text
+transfer-learning/damage_detection/model/damage_detection_weights.h5 filter=lfs diff=lfs merge=lfs -text
+transfer-learning/damage_detection/model/damage_detection_weights2.h5 filter=lfs diff=lfs merge=lfs -text
